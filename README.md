@@ -2,7 +2,9 @@
 Welcome to the official AB Bank website repository! This project showcases the website I built using Tailwind CSS, designed to offer a modern, responsive, and user-friendly experience.
 
 ## Live Demo 
-Check out the live version of the website: <a href="https://ziauddin128.github.io/AB-Bank/" target="_blank">AB Bank Live</a>
+<p>Check out the live version of the website: <a href="https://ziauddin128.github.io/AB-Bank/" target="_blank">AB Bank Live</a></p>
+<be>
+<img src="demo.png" width="300px">
 
 ## Features 
 <p><b>Responsive Design:</b> Optimized for all devices, from desktops to mobile phones.</p>
